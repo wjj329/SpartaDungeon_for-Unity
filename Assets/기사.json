@@ -1,0 +1,50 @@
+{
+    "Name": "기사",
+    "Lv": 15,
+    "NowExp": 7,
+    "FullExp": 21,
+    "Stat": {
+        "atk": 10,
+        "def": 20,
+        "sta": 50,
+        "crt": 20
+    },
+    "Inventory": [
+        {
+            "IsEquipped": false,
+            "Data": {
+                "instanceID": 50920
+            }
+        },
+        {
+            "IsEquipped": false,
+            "Data": {
+                "instanceID": 50916
+            }
+        },
+        {
+            "IsEquipped": false,
+            "Data": {
+                "instanceID": 50912
+            }
+        },
+        {
+            "IsEquipped": true,
+            "Data": {
+                "instanceID": 50904
+            }
+        },
+        {
+            "IsEquipped": false,
+            "Data": {
+                "instanceID": 50908
+            }
+        },
+        {
+            "IsEquipped": false,
+            "Data": {
+                "instanceID": -107426
+            }
+        }
+    ]
+}
